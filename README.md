@@ -88,7 +88,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/VKx64/VKx64/output/snake.svg" alt="Snake animation" />
-
-###
