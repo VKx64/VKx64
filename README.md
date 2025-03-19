@@ -71,19 +71,3 @@
 </div>
 
 ###
-
-<h4 align="left">🗨️ Contact me</h4>
-
-###
-
-<div align="left">
-  <a href="https://discord.gg/xqKTxFkfpS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://web.facebook.com/vkx64/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=contact@zofky.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-</div>
-
-###
