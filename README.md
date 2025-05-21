@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="center">I'm Kylle, a junior software developer contributing to society one issue at a time.</h6>
+<h6 align="center">I'm Kylle, a software developer contributing to society one issue at a time.</h6>
 
 ###
 
