@@ -1,7 +1,3 @@
-<div align="center">
-  <img style="width: 100%; border-radius: 15px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4622c916-ea1d-4c0d-b548-14b02bfc142c/dgjr2my-2ed49e48-34c8-4322-985d-ad8418d97583.jpg/v1/fill/w_1280,h_551,q_75,strp/tensura_banner_illustration_rendered_more_by_lfazuresky_dgjr2my-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUxIiwicGF0aCI6IlwvZlwvNDYyMmM5MTYtZWExZC00YzBkLWI1NDgtMTRiMDJiZmMxNDJjXC9kZ2pyMm15LTJlZDQ5ZTQ4LTM0YzgtNDMyMi05ODVkLWFkODQxOGQ5NzU4My5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Xg_pmhRXt991wWBp4QGa7VzUIc2MMmsoIHV-has8Pr8"  />
-</div>
-
 ###
 
 <h4 align="center">👋 VKx64 - Junior Software Developer 👋</h4>
